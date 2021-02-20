@@ -4,7 +4,7 @@
 
 This project was completed in week 2 of the Data Science Bootcamp at Spiced Academy.
 
-Project's notebook is [here](titanic_final_updated.ipynb).
+Project's notebook is [here](titanic_kaggle_submission.ipynb).
 
 The project involves basic implementation of
 
